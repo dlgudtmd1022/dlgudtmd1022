@@ -5,7 +5,8 @@
 
 ## 👨‍💻 Introdution
 <div align=right>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F3658D&title_bg=%23EDADBF&icon=&icon_color=%23E7E7E7&title=visitant&edge_flat=false"/></a>
+  
+  ![](https://komarev.com/ghpvc/?username=dlgudtmd1022&style=flat-square)
 </div>
 
 <div>📛<strong>Name</strong>: 이형승(HyeongSeung LEE)</div>
