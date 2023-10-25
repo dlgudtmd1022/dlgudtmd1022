@@ -9,7 +9,7 @@
   ![](https://komarev.com/ghpvc/?username=dlgudtmd1022&style=flat-square)
 </div>
 
-<div>📛<strong>Name</strong>: 이형승(HyeongSeungLEE)</div>
+<div>📛<strong>Name</strong>: 이형승(HyeongSeung LEE)</div>
 <div>✉️ <strong>Mail</strong>: dlgudtmd1022@gmail.com</div>
 <div>✏️<strong>Blog</strong>:https://devloc.tistory.com/</div>
 
